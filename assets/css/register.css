@@ -3458,7 +3458,23 @@ iframe {
     opacity: 1;
   }
 }
+.select3{
+	border:none;
+	padding: 50px 60px;
+	border-radius:5px;
+  }
+  
+.select3:focus{
+	outline:none;
+}
 
+
+.lawbio{
+	border: #c80000;
+	padding: 50px 60px;
+	border-radius:5px;
+	
+}
 
 
 
